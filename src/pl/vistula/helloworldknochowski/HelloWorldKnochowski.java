@@ -4,5 +4,6 @@ public class HelloWorldKnochowski {
     public static void main(String[] args) {
         System.out.println("Hello Vistula Knochowski");
         System.out.println("Hello Vistula Knochowski 2");
+        System.out.println("Hello Vistula Knochowski 3");
     }
 }
